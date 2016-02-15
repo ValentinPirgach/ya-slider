@@ -1,0 +1,22 @@
+{
+  "name": "Ya-Slider",
+  "homepage": "https://github.com/ValentinPirgach/ya-slider",
+  "authors": [
+    "ValentinPirgach <valentin.pirgach@gmail.com>"
+  ],
+  "description": "Flexible presentation",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-mobile": "~1.4.5",
+    "jquery": "~2.2.0"
+  }
+}
